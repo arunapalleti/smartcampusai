@@ -1,0 +1,41 @@
+[
+    {
+        "id": "d4f65da1-40b9-480b-8239-ef63a24c5729",
+        "title": "Advanced Python Project",
+        "description": "Write a complete Streamlit app using Python.",
+        "due_date": "2026-07-20",
+        "class_name": "Computer Science 202",
+        "created_by_name": "Jane Faculty",
+        "created_by_id": "d9f7d0ff-14a1-4b40-8e53-2a1a36671fc4",
+        "submissions": [
+            {
+                "student_id": "19b65dce-8194-4c06-9721-3183107820e2",
+                "student_name": "Alex Student",
+                "submitted_at": "2026-07-14 14:53",
+                "submission_text": "Check out my project submission code. It is fully modular and PEP-8 compliant!",
+                "grade": "A+",
+                "feedback": "Outstanding implementation! Exceeded expectation."
+            }
+        ]
+    },
+    {
+        "id": "b6a9269b-9ce2-4e02-82d0-7d82d1d1a380",
+        "title": "Advanced Python Project",
+        "description": "Write a complete Streamlit app using Python.",
+        "due_date": "2026-07-20",
+        "class_name": "Computer Science 202",
+        "created_by_name": "Jane Faculty",
+        "created_by_id": "d9f7d0ff-14a1-4b40-8e53-2a1a36671fc4",
+        "submissions": []
+    },
+    {
+        "id": "4379c09d-e660-4c40-af56-5f4463910479",
+        "title": "Advanced Python Project",
+        "description": "Write a complete Streamlit app using Python.",
+        "due_date": "2026-07-20",
+        "class_name": "Computer Science 202",
+        "created_by_name": "Jane Faculty",
+        "created_by_id": "d9f7d0ff-14a1-4b40-8e53-2a1a36671fc4",
+        "submissions": []
+    }
+]

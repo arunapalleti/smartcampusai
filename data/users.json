@@ -1,0 +1,34 @@
+[
+    {
+        "id": "11c5cc6d-73a8-4e0b-b5d6-88aff6611d38",
+        "name": "System Administrator",
+        "email": "admin@smartcampus.edu",
+        "username": "admin",
+        "password": "$2b$12$YcJTas2Gv8wu2p5/IcSIy.0o482.geU2IH/yF.KQKtIYmpscbi2U6",
+        "role": "Admin"
+    },
+    {
+        "id": "d9f7d0ff-14a1-4b40-8e53-2a1a36671fc4",
+        "name": "Jane Faculty",
+        "email": "jane@campus.edu",
+        "username": "janefac",
+        "password": "$2b$12$KmKgDQgYmDB6MYxVCyyjau48Qa.I3vHaC1Uw9pUli8MgaooWTuLT.",
+        "role": "Faculty"
+    },
+    {
+        "id": "19b65dce-8194-4c06-9721-3183107820e2",
+        "name": "Alex Student",
+        "email": "alex@campus.edu",
+        "username": "alexstud",
+        "password": "$2b$12$llH5OpzCLTYuCvFdWAFIEeVzFFrN08zYvznYVxxj15Pk8Y/eCwHmO",
+        "role": "Student"
+    },
+    {
+        "id": "75bba076-b1cf-4896-a34c-9540c66eb547",
+        "name": "aruna palleti",
+        "email": "arunapalleti85@gmail.com",
+        "username": "aruna",
+        "password": "$2b$12$FM3mCVyTtfjc/Fp4B0iT5.ELrhPqWTTlf4xN3IqJ4mizolMy2Bkwq",
+        "role": "Student"
+    }
+]
